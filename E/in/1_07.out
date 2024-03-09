@@ -1,0 +1,41 @@
+Original Instance: 
+Answer: 22818
+Used Weight: 995912585
+Indices: 95 94 92 88 87 80 77 76 70 69 62 50 40 36 34 31 23 18 11 9 6 2 1 
+
+Rounded Instance with Eps: 0.5
+Theta: 2.5252525252525251
+Answer of reduced instance: 9049
+Answer of reduced instance multiplied by theta: 22851.010101010099
+Indices: 95 94 92 88 87 80 77 76 70 69 62 50 40 36 34 31 23 18 11 9 6 2 1 
+Answer of original instance (rounded up): 22818
+Used Weight: 995912585
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.2
+Theta: 1.0101010101010102
+Answer of reduced instance: 22611
+Answer of reduced instance multiplied by theta: 22839.393939393940
+Indices: 95 94 92 88 87 80 77 76 70 69 62 50 40 36 34 31 23 18 11 9 6 2 1 
+Answer of original instance (rounded up): 22818
+Used Weight: 995912585
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.1
+Theta: 0.5050505050505051
+Answer of reduced instance: 45199
+Answer of reduced instance multiplied by theta: 22827.777777777781
+Indices: 95 94 92 88 87 80 77 76 70 69 62 50 40 36 34 31 23 18 11 9 6 2 1 
+Answer of original instance (rounded up): 22818
+Used Weight: 995912585
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.05
+Theta: 0.2525252525252525
+Answer of reduced instance: 90377
+Answer of reduced instance multiplied by theta: 22822.474747474749
+Indices: 95 94 92 88 87 80 77 76 70 69 62 50 40 36 34 31 23 18 11 9 6 2 1 
+Answer of original instance (rounded up): 22818
+Used Weight: 995912585
+Ratio: 1.0
+

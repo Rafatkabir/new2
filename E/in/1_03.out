@@ -1,0 +1,41 @@
+Original Instance: 
+Answer: 11933
+Used Weight: 979832207
+Indices: 100 99 84 58 49 40 37 31 28 27 14 6 
+
+Rounded Instance with Eps: 0.5
+Theta: 2.5000000000000000
+Answer of reduced instance: 4779
+Answer of reduced instance multiplied by theta: 11947.500000000000
+Indices: 100 99 84 58 49 40 37 31 28 27 14 6 
+Answer of original instance (rounded up): 11933
+Used Weight: 979832207
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.2
+Theta: 1.0000000000000000
+Answer of reduced instance: 11933
+Answer of reduced instance multiplied by theta: 11933.000000000000
+Indices: 100 99 84 58 49 40 37 31 28 27 14 6 
+Answer of original instance (rounded up): 11933
+Used Weight: 979832207
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.1
+Theta: 0.5000000000000000
+Answer of reduced instance: 23866
+Answer of reduced instance multiplied by theta: 11933.000000000000
+Indices: 100 99 84 58 49 40 37 31 28 27 14 6 
+Answer of original instance (rounded up): 11933
+Used Weight: 979832207
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.05
+Theta: 0.2500000000000000
+Answer of reduced instance: 47732
+Answer of reduced instance multiplied by theta: 11933.000000000000
+Indices: 100 99 84 58 49 40 37 31 28 27 14 6 
+Answer of original instance (rounded up): 11933
+Used Weight: 979832207
+Ratio: 1.0
+

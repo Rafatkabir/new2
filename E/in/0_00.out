@@ -1,0 +1,41 @@
+Original Instance: 
+Answer: 90
+Used Weight: 8
+Indices: 3 1 
+
+Rounded Instance with Eps: 0.5
+Theta: 5.0000000000000000
+Answer of reduced instance: 19
+Answer of reduced instance multiplied by theta: 95.000000000000
+Indices: 3 1 
+Answer of original instance (rounded up): 90
+Used Weight: 8
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.2
+Theta: 2.0000000000000000
+Answer of reduced instance: 46
+Answer of reduced instance multiplied by theta: 92.000000000000
+Indices: 3 1 
+Answer of original instance (rounded up): 90
+Used Weight: 8
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.1
+Theta: 1.0000000000000000
+Answer of reduced instance: 91
+Answer of reduced instance multiplied by theta: 91.000000000000
+Indices: 3 1 
+Answer of original instance (rounded up): 90
+Used Weight: 8
+Ratio: 1.0
+
+Rounded Instance with Eps: 0.05
+Theta: 0.5000000000000000
+Answer of reduced instance: 181
+Answer of reduced instance multiplied by theta: 90.500000000000
+Indices: 3 1 
+Answer of original instance (rounded up): 90
+Used Weight: 8
+Ratio: 1.0
+
